@@ -30,4 +30,4 @@ It is possible change TimeZone, database's name, user and password in bootstrap.
 1. Clone the repo: git clone git://github.com/jorbriib/vagrant-lamp-phpmyadmin-load-dump-db.git
 2. To load a database, copy a script 'database.sql' in the 'sql' folder.
 3. Launch machines with command: vagrant up.
-4. Copy your website in 'www' shared folder.
+4. Copy your web site in the shared folder 'www'.
