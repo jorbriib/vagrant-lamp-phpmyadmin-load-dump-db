@@ -3,7 +3,7 @@
 This repository creates a vagrant box with a LAMP environment. Vagrant loads a sql file to create a database and PHPMyAdmin is accesible to handle.
 When the machine Vagrant shuts down, it creates a backup of the database.
 
-##Installation
+##Virtual Machine
 	- Ubuntu 14.04 LTS (trusty)
 	- Apache
 	- MySQL
@@ -19,7 +19,7 @@ When the machine Vagrant shuts down, it creates a backup of the database.
 
 ##Prerequisites
 1. You must have vagrant installed.
-2. If you want to enable automatic backups, you have to install plugins vagrant-triggers:
+2. If you want to enable automatic backups, you have to install vagrant-triggers plugin:
 
     $ vagrant plugin install vagrant-triggers
 
