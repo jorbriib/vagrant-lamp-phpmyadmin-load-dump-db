@@ -1,0 +1,3 @@
+*.sql
+.vagrant
+.DS_Store
