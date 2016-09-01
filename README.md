@@ -1,6 +1,6 @@
-# Vagrant box with LAMP, PHPMyAdmin and Load&Dump Database
+# Vagrant VM with LAMP, PHPMyAdmin and Load&Dump Database
 
-This repository creates a vagrant box with a LAMP environment. Vagrant loads a sql file to create a database and PHPMyAdmin is accesible to handle.
+This repository creates a vagrant VM with a LAMP environment. Vagrant loads a sql file to create a database and PHPMyAdmin is accesible to handle.
 When the machine Vagrant shuts down, it creates a backup of the database.
 
 ##Virtual Machine
