@@ -1,1 +1,1 @@
-# vagrant-lamp-phpmyadmin-load-dump-db
+# Vagrant box with LAMP, PHPMyAdmin and Load&Dump Database
